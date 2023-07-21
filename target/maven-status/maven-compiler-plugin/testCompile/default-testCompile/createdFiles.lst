@@ -1,0 +1,15 @@
+stepdefinitions\QdStepDefinitions.class
+pages\AutomationExersizePage.class
+stepdefinitions\AutomationExersizeStepdefiinitions.class
+pages\AmazonPage.class
+stepdefinitions\Hooks.class
+runners\Runner.class
+stepdefinitions\AmazonStepDefinitions.class
+utilities\Driver.class
+pages\QdPage.class
+runners\ParalelRunner1.class
+runners\ParalelRunner2.class
+runners\RaporRunner.class
+stepdefinitions\WebdriveruniversityStepdefinitions.class
+pages\WebdriveruniversityPage.class
+utilities\ConfigReader.class

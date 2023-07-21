@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="23.526" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="US1005 Webdriveruniversity Testi" name="TC01 Kullanici sitede surf yapabilmeli" time="22.846">
+<system-out><![CDATA[
+Given Kullanici "webdriveruniversityUrl" sitesine gider.....................passed
+Then Login Portal a kadar iner..............................................passed
+And Login Portal'a tiklar...................................................passed
+And Diger windowa gecer.....................................................passed
+And username ve password kutularina deger yazdirir..........................passed
+And login butonuna basar....................................................passed
+And Popup'ta cikan yazinin -validation failed- oldugunu test edin...........passed
+Then Ok tusuna basar ve Popup'i kapatir.....................................passed
+And ilk sayfaya geri doner..................................................passed
+When ilk sayfaya donuldugunu test eder......................................passed
+And tum sayfalari kapatir...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
