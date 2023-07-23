@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="18.301" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="US1009 Guru99 Testi" name="TC01 Kullanici sayfada kendini musteri olrak ekleyebilmeli" time="17.446">
+<system-out><![CDATA[
+Given Kullanici "demoguruUrl" sitesine gider................................passed
+Then sayfanin Title inin Telecom icerdigini test eder.......................passed
+And add custumer sayfasina gider............................................passed
+And Formu doldurup musteri ekler............................................passed
+And musteri eklendigini dogrular............................................passed
+And kullanicinin customer idsini yazdirir...................................passed
+Then sayfayi kapatir........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
